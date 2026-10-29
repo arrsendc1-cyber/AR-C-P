@@ -7,3 +7,4 @@ AR-C-P masa üstünüzdeki küçük bir yardımcıdır saatin kaç olduğu,medya
 Discord:ar.xy1
 İnsta:arrsen.xy1
 Gmail:arrsengithubbilgi@gmail.com
+VİRÜSTOTAL SONUCU: https://www.virustotal.com/gui/file/0f2b9a0b784749d025ab2a0aa0a26fbc5529f09af58626ef1426c30897e188b0?nocache=1
