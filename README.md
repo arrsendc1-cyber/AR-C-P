@@ -1,3 +1,6 @@
+<img width="512" height="593" alt="Ekran görüntüsü 2026-10-29 201655" src="https://github.com/user-attachments/assets/31562226-d505-4e43-9e61-570d1d0c3085" />
+<img width="360" height="95" alt="Ekran görüntüsü 2026-10-29 201630" src="https://github.com/user-attachments/assets/64dbcc3c-5176-44d3-8ff2-6580bd0e05e3" />
+<img width="234" height="98" alt="Ekran görüntüsü 2026-10-29 201621" src="https://github.com/user-attachments/assets/598882d1-7cfd-4cf8-9e8a-80de9c200947" />
 # AR-C-P
 Türk öğrencisi tarafından Yapılmıştır,Yapay zekadan destek alınmıştır
 AR-C-P masa üstünüzdeki küçük bir yardımcıdır saatin kaç olduğu,medya kontrolleri,kısayollar,hava,sistem bilgileri içeren kendinize has özelleştire bildiğiniz bir Dynamic İsland projesidir.
